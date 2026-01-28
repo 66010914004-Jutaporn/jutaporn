@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>66010914029 ดนยา อุดมคำ (ปูเป้)</title>
+    <title>66010914004 จุฑาภรณ์ สมจันทร์ (ฝน)</title>
     
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdn.datatables.net/1.13.6/css/dataTables.bootstrap5.min.css" rel="stylesheet">
@@ -18,7 +18,7 @@
 
 <div class="container">
     <div class="table-container">
-        <h1 class="text-center mb-4">66010914029 ดนยา อุดมคำ (ปูเป้)</h1>
+        <h1 class="text-center mb-4">66010914004 จุฑาภรณ์ สมจันทร์ (ฝน)</h1>
 
         <table id="myProductTable" class="table table-striped table-hover table-bordered" style="width:100%">
             <thead class="table-dark">

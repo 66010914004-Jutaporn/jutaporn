@@ -3,7 +3,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>66010914029 ดนยา อุดมคำ (ปูเป้)</title>
+    <title>66010914004 จุฑาภรณ์ สมจันทร์ (ฝน)</title>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <style>
         body { font-family: 'Sarabun', sans-serif; background-color: #f8f9fa; padding: 20px; }
@@ -20,7 +20,7 @@
 <body>
 
 <div class="container">
-    <h3>รายงานยอดขายแยกตามประเทศ: ดนยา อุดมคำ</h3>
+    <h3>รายงานยอดขายแยกตามประเทศ:จุฑาภรณ์ สมจันทร์ (ฝน)</h3>
 
     <?php
     include_once("connectdb.php"); 

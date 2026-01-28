@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>66010914029 ดนยา อุดมคำ (ปูเป้)</title>
+    <title>66010914004 จุฑาภรณ์ สมจันทร์ (ฝน)</title>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Sarabun:wght@300;400;700&display=swap');
@@ -30,7 +30,7 @@
 <div class="main-card">
     <div class="header">
         <h2>📊 สรุปรายงานยอดขายรายเดือน</h2>
-        <p class="title-name">66010914029 ดนยา อุดมคำ (ปูเป้)</p>
+        <p class="title-name">66010914004 จุฑาภรณ์ สมจันทร์ (ฝน)</p>
     </div>
 
     <?php

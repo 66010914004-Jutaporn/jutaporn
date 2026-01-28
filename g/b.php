@@ -2,10 +2,10 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>66010914029 ดนยา อุดมคำ (ปูเป้)</title>
+    <title>66010914004 จุฑาภรณ์ สมจันทร์ (ฝน)</title>
 </head>
 <body>
-    <h1>66010914029 ดนยา อุดมคำ (ปูเป้)</h1>
+    <h1>66010914004 จุฑาภรณ์ สมจันทร์ (ฝน)</h1>
 
     <form method="post" action=""> 
         คำค้น: <input type="text" name="a" autofocus value="<?php echo @$_POST['a']; ?>">
