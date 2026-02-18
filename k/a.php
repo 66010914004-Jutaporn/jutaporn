@@ -2,7 +2,7 @@
 <html lang="th">
 <head>
     <meta charset="utf-8">
-    <title>ผลงานนักศึกษา 66010914029</title>
+    <title>ผลงานนักศึกษา 66010914004</title>
     <style>
         body {
             margin: 0;
@@ -63,7 +63,7 @@
 <body>
 
     <div class="card">
-        <h1>งาน K<br>ดนยา อุดมค่า<br>66010914029</h1>
+        <h1>งาน K<br>จุฑาภรณ์ สมจันทร์<br>66010914004</h1>
 
         <a href="images/1.jpg" class="btn btn-blue">📸 ดูรูปของฉัน</a>
         <a href="images/2.jpg" class="btn btn-pink">👩‍🏫 ดูรูปอาจารย์</a>
