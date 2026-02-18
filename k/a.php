@@ -27,7 +27,7 @@
 </head>
 <body>
 
-<h1>งาน K 66010914004 จุฑาภรณ์ สมจันทร์ </h1>
+<h1>งาน K 66010914004 จุฑาภรณ์ สมจันทร์ (ฝน)</h1>
 
 
 <button class="btn green" onclick="document.getElementById('img1').style.display='block'">
