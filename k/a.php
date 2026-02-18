@@ -1,47 +1,77 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="th">
 <head>
-    <meta charset="UTF-8">
-    <title>งาน K </title>
+    <meta charset="utf-8">
+    <title>ผลงานนักศึกษา 66010914029</title>
     <style>
         body {
+            margin: 0;
+            font-family: Tahoma, sans-serif;
+            background: linear-gradient(to right, #4facfe, #00f2fe);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .card {
+            background: white;
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.2);
             text-align: center;
-            font-family: Arial, sans-serif;
+            width: 350px;
         }
+
+        h1 {
+            color: #333;
+            margin-bottom: 30px;
+        }
+
         .btn {
-            padding: 10px 20px;
-            font-size: 16px;
-            border: none;
-            cursor: pointer;
-            margin: 10px;
-        }
-        .green {
-            background-color: green;
+            display: block;
+            margin: 15px 0;
+            padding: 12px;
+            border-radius: 30px;
+            text-decoration: none;
             color: white;
+            font-weight: bold;
+            transition: 0.3s;
         }
-        .orange {
-            background-color: orange;
-            color: white;
+
+        .btn-blue {
+            background: #00FF95;
+        }
+
+        .btn-pink {
+            background: #BBE83E;
+        }
+
+        .btn:hover {
+            transform: scale(1.05);
+            opacity: 0.9;
+        }
+
+        footer {
+            margin-top: 20px;
+            font-size: 14px;
+            color: gray;
         }
     </style>
 </head>
+
 <body>
 
-<h1>งาน K 66010914004 จุฑาภรณ์ สมจันทร์ (ฝน)</h1>
+    <div class="card">
+        <h1>งาน K<br>ดนยา อุดมค่า<br>66010914029</h1>
 
+        <a href="images/1.jpg" class="btn btn-blue">📸 ดูรูปของฉัน</a>
+        <a href="images/2.jpg" class="btn btn-pink">👩‍🏫 ดูรูปอาจารย์</a>
 
-<button class="btn green" onclick="document.getElementById('img1').style.display='block'">
-    สีเขียว
-</button>
-
-<button class="btn orange" onclick="document.getElementById('img2').style.display='block'">
-    สีเหลือง
-</button>
-
-<br><br>
-
-<img id="img1" src="1.jpg" width="300" style="display:none;">
-<img id="img2" src="2.jpg" width="300" style="display:none;">
+        <footer>
+            วิชา: การพัฒนาเว็บไซต์เบื้องต้น
+        </footer>
+    </div>
 
 </body>
 </html>
